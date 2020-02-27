@@ -14,6 +14,6 @@ st.translate(dic)
 
 st.print()
 
-
+input()
 
 
