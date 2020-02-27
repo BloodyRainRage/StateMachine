@@ -67,6 +67,6 @@ class StateMachine:
 
     def print(self):
         print("result dictionary: ", ''.join(self.result))
-
+        
         print("states: ", ''.join(str(self.states)))
 
